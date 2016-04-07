@@ -12,9 +12,6 @@ import android.text.Layout;
 import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.view.View;
-
-import com.cxy.myaudio.model.BezierEvaluator;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.HashMap;
